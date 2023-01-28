@@ -1,3 +1,4 @@
+![](https://github.com/Nataliia-Belodedenko/Nataliia-Belodedenko/blob/main/logo.png)
 <h1 align="center">Welcome to my GitHub <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br/><img src="https://komarev.com/ghpvc/?username=Nataliia-Belodedenko&style=flat-square&color=blue" alt=""/></h1>
 <div id='aboutMe'>
   <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :</h2>
